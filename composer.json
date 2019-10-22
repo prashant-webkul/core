@@ -1,0 +1,32 @@
+{
+    "name": "bagisto/core",
+    "description": "Bagisto Core Packages",
+    "keywords": [
+        "bagisto",
+        "laravel",
+        "ecommerce",
+        "saas"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Prashant Singh",
+            "email": "prashant.singh852@webkul.com",
+            "homepage": "https://github.com/prashant-webkul",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+    },
+    "require-dev": {
+    },
+    "autoload": {
+    },
+    "autoload-dev": {
+    },
+    "scripts": {
+    },
+    "extra": {
+    },
+    "prefer-stable": true
+}
